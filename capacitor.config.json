@@ -1,0 +1,8 @@
+{
+  "appId": "com.faztweb.app",
+  "appName": "myfirstionicproject",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
